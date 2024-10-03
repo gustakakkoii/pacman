@@ -16,10 +16,14 @@ No jogo, você controla o **Pacman** por um labirinto enquanto tenta coletar tod
 ## 📷 Imagens do Jogo
 
 ### Jogo em Ação
-![Jogo em Ação](readme/imagem1.png)
+<div align="center">
+  <img src="readme/imagem1.png" alt="Jogo em Ação">
+</div>
 
 ### Game Over
-![Game Over](readme/imagem2.png)
+<div align="center">
+  <img src="readme/imagem2.png" alt="Game Over">
+</div>
 
 ## 🛠️ Como Executar o Jogo
 
