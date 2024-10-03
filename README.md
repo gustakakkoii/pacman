@@ -27,7 +27,7 @@ No jogo, você controla o **Pacman** por um labirinto enquanto tenta coletar tod
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/pacman-game.git
+   git clone https://github.com/gustakakkoii/pacman.git
    ```
 
 3. Acesse o diretório do projeto:
